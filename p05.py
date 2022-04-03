@@ -1,3 +1,4 @@
+# BMI
 def BMI(kg, m):
     bmi = kg/(m*m)
     # print(bmi)
